@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+dd.drive [
+  $0
+]
+]]></content>
+  <tabTrigger>ddr</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

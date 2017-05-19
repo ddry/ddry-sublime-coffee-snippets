@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+it: '${1:get things done}'
+i: [ ${2:input} ]
+e: ${3:expected}
+]]></content>
+  <tabTrigger>it</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+matcher: 'contains'
+]]></content>
+  <tabTrigger>m:c</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+'use strict'
+
+module.exports = (dd) ->
+  dd.drive [
+    dd.pending()
+  ]
+
+]]></content>
+  <tabTrigger>ddp</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dd.context '${1:With some context}', ->
+  $2
+]]></content>
+  <tabTrigger>ddc</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

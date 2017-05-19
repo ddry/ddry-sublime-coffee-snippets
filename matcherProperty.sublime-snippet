@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+matcher: 'property'
+]]></content>
+  <tabTrigger>m:p</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>
