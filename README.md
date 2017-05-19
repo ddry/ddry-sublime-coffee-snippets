@@ -19,7 +19,7 @@ module.exports = (dd) ->
 
 This spec is very promising since it can actually engage every test harness, but sadly useless.
 
-To start actual testing expand **dd** `tab` **it** `tab` to
+To start actual testing, expand **dd** `tab` **it** `tab` to
 
 ```coffee
 'use strict'
@@ -38,15 +38,15 @@ Use `ddr` to start just `dd.drive` call, `ddc` for `dd.context`. And we have now
 
 ### Matchers
 
-`m:` for `matcher: 'plain'`
-`m:a` for `matcherL 'anyOrder'`
-`m:c` for `matcher: 'contains'`
-`m:e` for `matcher: 'error'`
-`m:p` for `matcher: 'property'`
+- `m:` for `matcher: 'plain'`
+- `m:a` for `matcher: 'anyOrder'`
+- `m:c` for `matcher: 'contains'`
+- `m:e` for `matcher: 'error'`
+- `m:p` for `matcher: 'property'`
 
 ### Hooks
 
-`bh` for `before` hook
-`ah` for `after` hook
+- `bh` for `before` hook
+- `ah` for `after` hook
 
 Keep focused and save your time.
